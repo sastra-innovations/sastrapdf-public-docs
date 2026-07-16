@@ -8,9 +8,14 @@ Approval and accountability patterns help organizations control sensitive docume
 | --- | --- | --- |
 | Reviewer assignment | Implemented; validation pending | Assigns accountable reviewers. |
 | Signature workflow evidence | Implemented; validation pending | Supports signing evidence and audit export. |
-| Approval-controlled document action | Beta preparation | Requires MedhaOS policy and approval boundaries when integrated. |
-| Human approval for AI-assisted actions | Beta preparation | Applies to sensitive AI-assisted workflow steps. |
 | Audit evidence | Implemented; validation pending | Captures review or workflow evidence where enabled. |
+
+## Future Integration Direction
+
+| Capability | Status | Notes |
+| --- | --- | --- |
+| Approval-controlled document action | Beta preparation | Intended to use MedhaOS policy and approval boundaries when integrated. |
+| Human approval for AI-assisted actions | Beta preparation | Intended to apply human review to sensitive AI-assisted workflow steps. |
 
 ## Conceptual Approval Flow
 

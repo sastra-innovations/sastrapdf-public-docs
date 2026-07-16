@@ -13,6 +13,8 @@ Batch processing helps users apply repeatable document operations to multiple fi
 | Sanitize PDF | Implemented; validation pending | Requires policy and output review. |
 | Text extraction | Implemented | Supports downstream indexing and processing. |
 | Validation profile or preflight check | Implemented; validation pending | Supports repeatable quality review. |
+| Scan cleanup | Implemented; validation pending | Can support repeatable scanned-document cleanup. |
+| PDF/X preflight | Implemented; validation pending | Can be used in repeatable print-preflight workflows. |
 
 ## Operational Considerations
 

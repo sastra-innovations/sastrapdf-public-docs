@@ -12,10 +12,11 @@ Comments and review features help teams discuss document context, assign work, r
 | Annotation templates | Implemented; validation pending | Reuses common review annotations. |
 | Reviewer assignment | Implemented; validation pending | Assigns work to users or reviewers. |
 | Shared review | Implemented; validation pending | Supports team-based review workflows. |
-| Mentions | Founder verification required | Evidence is not sufficient to document mentions as implemented. |
 
 ## Review Boundary
 
 Comments, replies and notes support review but do not equal formal approval unless the organization's workflow defines that meaning. Sensitive decisions should use approval controls and evidence.
+
+This repository does not document user mentions as an available capability.
 
 Related page: [approvals and accountability](approvals-and-accountability.md).

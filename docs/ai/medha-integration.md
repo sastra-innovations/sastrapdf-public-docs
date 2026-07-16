@@ -20,8 +20,8 @@ flowchart TD
   Review --> Operation["SastraPDF document operation"]
 ```
 
-## Status
+## Future Integration Status
 
-Medha-powered reasoning in SastraPDF is documented as `Beta preparation` where direct product-integration evidence requires founder confirmation. This avoids overstating production availability.
+Medha reasoning over SastraPDF document workflows is documented as `Beta preparation`. This is a future integration direction and should not be read as a generally available SastraPDF private-alpha capability.
 
 See the [Medha public documentation](https://github.com/sastra-innovations/medha-public-docs) for product-specific Medha positioning.

@@ -9,6 +9,8 @@ AI-assisted comparison helps reviewers understand document differences, summariz
 | Visual comparison | Implemented; validation pending | Compares appearance across documents or versions. |
 | Text or semantic comparison | Implemented; validation pending | Compares textual or meaning-level changes. |
 | Document comparison assistance | Implemented; validation pending | Produces draft review summaries. |
+| Contract analysis assistance | Implemented; validation pending | Produces draft review findings for contract-like documents. |
+| Resume or profile review assistance | Implemented; validation pending | Produces draft review findings for resume-like or profile documents. |
 
 ## Review Boundary
 

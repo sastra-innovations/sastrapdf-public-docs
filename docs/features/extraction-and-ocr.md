@@ -13,6 +13,8 @@ Extraction and OCR features turn document content into usable text, images, layo
 | Layout extraction | Implemented; validation pending | Yes | Extracts layout structure for downstream processing. |
 | Table extraction | Implemented; validation pending | Yes | Produces structured table output where the document permits. |
 | Document information extraction | Implemented; validation pending | Yes | Extracts key fields or document details. |
+| Scan cleanup | Implemented; validation pending | Optional | Improves scanned document readability. |
+| Photo or document detection | Implemented; validation pending | Yes | Detects photo-like or document-like inputs for review workflows. |
 
 ## Human Review
 

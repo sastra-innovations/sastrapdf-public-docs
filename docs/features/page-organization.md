@@ -22,6 +22,9 @@ Page organization features let users restructure documents for review, filing, d
 | N-up page layout | Implemented; validation pending | Places multiple pages on one output page. |
 | Single long-page output | Implemented; validation pending | Produces a continuous-page representation. |
 | Overlay documents | Implemented; validation pending | Layers one document or page over another. |
+| PDF portfolio creation | Implemented; validation pending | Packages related files or documents into a portfolio PDF. |
+| Template and master page management | Implemented; validation pending | Reuses page structures and templates. |
+| Mail merge | Implemented; validation pending | Generates personalized document outputs from structured data. |
 
 ## Review Guidance
 

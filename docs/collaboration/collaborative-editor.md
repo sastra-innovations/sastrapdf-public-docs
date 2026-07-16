@@ -13,12 +13,14 @@ The SastraPDF collaborative editor combines document viewing, editing, annotatio
 | Reviewer assignment | Implemented; validation pending | Assigns review tasks in collaborative workflows. |
 | Role-based editing permissions | Implemented; validation pending | Requires enterprise validation for specific tenant and role models. |
 | Version history | Implemented; validation pending | Shows version context and change history. |
-| Presence indicators | Founder verification required | UI-visible evidence is insufficient to claim implemented real-time cursor presence. |
-| Concurrent editing | Founder verification required | Do not assume enterprise-validated real-time co-editing. |
-| Conflict handling | Implemented; validation pending | Supported as a controlled workflow concept; enterprise validation required. |
+| Conflict handling | Implemented; validation pending | Supported as a controlled workflow concept; enterprise validation required. Automatic conflict resolution is not documented as available. |
 
 ## Editing Boundary
 
 Collaborative editing should preserve document permissions, reviewer accountability and output review. A shared editing surface does not automatically mean every user can make every edit.
+
+## Real-Time Editing Boundary
+
+SastraPDF is documented here as supporting collaborative review and controlled document editing workflows. This repository does not document Google Docs-style simultaneous live co-editing, cursor presence or live presence indicators as available capabilities.
 
 Related pages: [roles and permissions](roles-and-permissions.md), [versioning and change history](versioning-and-change-history.md).

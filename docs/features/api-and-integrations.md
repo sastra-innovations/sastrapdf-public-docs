@@ -18,4 +18,4 @@ SastraPDF performs document operations and document workflow execution. External
 
 ## Public Documentation Boundary
 
-This repository does not document API endpoint paths, authentication secrets, schema internals, storage models, SDK availability claims or connector implementation details. Public-facing SDK or API availability beyond conceptual integration requires founder verification.
+This repository does not document API endpoint paths, authentication secrets, schema internals, storage models, SDK availability claims or connector implementation details. Public-facing SDK or API availability beyond conceptual integration requires a separate publication decision.

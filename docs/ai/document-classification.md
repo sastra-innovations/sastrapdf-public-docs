@@ -14,4 +14,4 @@ Classification output should not automatically trigger sensitive actions without
 
 ## Limitations
 
-Classification output may be inaccurate and may need tuning, validation or founder confirmation for specific document categories.
+Classification output may be inaccurate and may need tuning or validation for specific document categories.

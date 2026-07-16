@@ -13,6 +13,9 @@ Viewing and navigation features help users inspect documents before editing, ext
 | Document metadata view | Implemented | Shows public document information when available. |
 | Bookmark or outline editing | Implemented | Supports navigation structure changes. |
 | Initial view preferences | Implemented; validation pending | Defines how a document opens in compatible viewers. |
+| Measurement tools | Implemented; validation pending | Measures distances, areas or perimeters where document scale supports it. |
+| 3D and RichMedia viewing | Implemented; validation pending | Inspects supported embedded media without documenting media internals. |
+| Geospatial PDF inspection | Implemented; validation pending | Reviews geospatial context where present. |
 
 ## Boundaries
 

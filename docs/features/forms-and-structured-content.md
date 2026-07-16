@@ -13,6 +13,9 @@ SastraPDF supports form creation, field detection, validation, tab order, templa
 | Field mapping | Implemented; validation pending | Maps form fields to structured records. |
 | Tab order editing | Implemented; validation pending | Controls keyboard navigation order. |
 | Form template creation | Implemented; validation pending | Reuses form structures. |
+| Form appearance management | Implemented; validation pending | Controls field presentation and appearance. |
+| XFA detection and conversion | Implemented; validation pending | Handles XFA-bearing documents where supported. |
+| Form action and event inspection | Implemented; validation pending | Reviews form actions or event behavior. |
 | Form publishing | Implemented; validation pending | Prepares a form for use under workflow policy. |
 | Form submission review | Implemented; validation pending | Reviews received submissions and exports where configured. |
 

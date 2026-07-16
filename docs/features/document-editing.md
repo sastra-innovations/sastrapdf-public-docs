@@ -19,6 +19,11 @@ SastraPDF includes document editing capabilities for text, images, visual object
 | Table editing | Implemented; validation pending | Creates or adjusts table structures. |
 | XMP and document info synchronization | Implemented; validation pending | Aligns metadata stores. |
 | Initial view preferences | Implemented; validation pending | Sets viewer-opening behavior where supported. |
+| Color profile and output-intent management | Implemented; validation pending | Supports output-oriented color settings. |
+| Transparency flattening | Implemented; validation pending | Prepares transparency-heavy content for compatibility workflows. |
+| Font analysis | Implemented; validation pending | Reviews font resources and text behavior. |
+| Structure tree and role-map inspection | Implemented; validation pending | Reviews tagged PDF structure. |
+| Template and master page management | Implemented; validation pending | Supports reusable page structures. |
 
 ## Product Boundary
 

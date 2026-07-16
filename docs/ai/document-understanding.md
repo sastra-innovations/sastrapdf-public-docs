@@ -8,6 +8,8 @@ Document understanding covers OCR, layout recognition, structure analysis and do
 - Layout and structure understanding: `Implemented; validation pending`
 - Document classification: `Implemented; validation pending`
 - Structured data extraction: `Implemented; validation pending`
+- Translation with format preservation: `Implemented; validation pending`
+- Cross-document analysis: `Implemented; validation pending`
 
 ## Context Used
 

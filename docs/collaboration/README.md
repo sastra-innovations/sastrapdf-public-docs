@@ -12,7 +12,7 @@ SastraPDF treats collaboration as a primary product area: shared document worksp
 
 ## Status Boundary
 
-The current evidence supports comments, review surfaces, shared spaces, role-aware workflows, tasks and version context. Real-time cursor presence, unrestricted concurrent editing, automatic conflict resolution and version restoration are not presented as implemented unless founder verification confirms them.
+The current evidence supports comments, review surfaces, shared spaces, role-aware workflows, tasks and version context. Real-time cursor presence, simultaneous live co-editing, automatic conflict resolution and version restoration are not documented as available capabilities in this repository.
 
 ## Product Boundaries
 

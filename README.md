@@ -12,7 +12,7 @@ External enterprise systems remain authoritative for their own records and busin
 
 ## Feature Catalogue
 
-The current public catalogue identifies **105 distinct document operations** from verified private-alpha evidence. The count includes user-facing document operations with `Implemented` or `Implemented; validation pending` status. It excludes aliases, duplicate API/UI access paths, AI-only capabilities, collaboration-only capabilities, workflow/platform controls and planned items.
+The current public catalogue identifies **119 distinct document operations** from verified private-alpha evidence. The count includes user-facing document operations with `Implemented` or `Implemented; validation pending` status. It excludes aliases, duplicate API/UI access paths, AI-only capabilities, collaboration-only capabilities, workflow/platform controls and planned items.
 
 See [Feature Catalogue](docs/features/feature-catalogue.md) for the complete counting method and status model.
 
@@ -69,7 +69,12 @@ Every documented feature uses one of these statuses:
 - `Implemented; validation pending` - built but requiring additional workflow or enterprise validation.
 - `Beta preparation` - intended for the resumed beta but not currently presented as validated.
 - `Planned` - not currently implemented and clearly separated from available capabilities.
-- `Founder verification required` - evidence is incomplete or inconsistent.
+
+Capabilities that could not be verified are not documented as available features in this repository.
+
+## Current Status
+
+SastraPDF has completed internal private-alpha testing. Current work focuses on technical hardening, documentation, beta restart preparation, defined-workflow validation and preparation for design-partner evaluation. SastraPDF remains pre-commercial and has not yet completed enterprise production validation.
 
 ## Official Links
 
