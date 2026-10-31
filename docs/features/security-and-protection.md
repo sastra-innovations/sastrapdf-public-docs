@@ -21,4 +21,4 @@ Security and protection features help prepare, inspect and control documents. Th
 
 ## Governance Boundary
 
-SastraPDF performs document security operations. MedhaOS owns identity, RBAC, tenant isolation, policies, approvals, auditability and controlled execution when integrated. These controls can support an organization's governance program but do not automatically make an organization compliant.
+SastraPDF presents document security operations. Documents and Security retain their respective document and containment effects; Identity, Accounts, Tenancy, Action Access, Policy, Decision and Audit retain assurance, membership, placement, permission, policy, approval-disposition and proof effects. MedhaOS governs controlled execution when integrated. These controls can support an organization's governance program but do not automatically make an organization compliant.

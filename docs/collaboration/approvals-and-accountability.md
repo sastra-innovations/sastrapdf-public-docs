@@ -23,7 +23,7 @@ Approval and accountability patterns help organizations control sensitive docume
 flowchart TD
   Draft["Document action proposed"] --> Policy["Policy or workflow check"]
   Policy -->|Approval required| Reviewer["Reviewer evaluates"]
-  Reviewer -->|Approve or edit| Execute["SastraPDF executes permitted document operation"]
+  Reviewer -->|Approve or edit| Execute["Named owner executes permitted document operation through SastraPDF"]
   Reviewer -->|Reject or escalate| Evidence["Evidence record"]
   Policy -->|Allow| Execute
   Policy -->|Deny or escalate| Evidence
@@ -32,4 +32,4 @@ flowchart TD
 
 ## Boundary
 
-Medha may propose an action. MedhaOS evaluates identity, role, tenant, policy and approval requirements. SastraPDF executes the document operation only when permitted.
+Medha may propose an action. MedhaOS governs controlled execution using current evidence from Identity, Accounts, Tenancy, Action Access, Policy and Decision. The named document-effect owner executes the operation through the SastraPDF experience only when permitted.

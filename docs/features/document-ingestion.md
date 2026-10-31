@@ -16,7 +16,7 @@ See the [feature catalogue](feature-catalogue.md) for the required fields for ea
 
 ## Governance Considerations
 
-Ingestion should be scoped by file ownership, workspace membership and tenant boundaries. When MedhaOS is integrated, identity, RBAC, policy and audit controls belong to MedhaOS; SastraPDF performs the document intake and processing operation.
+Ingestion should be scoped by file ownership, workspace membership and tenant boundaries. Documents owns source admission and document processing results; Identity, Accounts, Tenancy, Action Access, Policy, Privacy, Security and Audit retain their respective controls and effects. MedhaOS governs controlled execution when integrated, and SastraPDF presents the complete intake experience.
 
 ## Limitations
 

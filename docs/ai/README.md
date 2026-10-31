@@ -20,6 +20,6 @@ SastraPDF includes AI-assisted document intelligence capabilities for understand
 
 AI features are assistive. This repository does not claim complete extraction reliability, complete output quality, unreviewed autonomous processing, error-free responses or validation in regulated operating environments.
 
-Medha owns reasoning, retrieval, context and model selection when integrated. MedhaOS owns identity, policies, model/provider boundaries, approvals, auditability and controlled execution. SastraPDF owns document operations and document workflow execution.
+Medha owns reasoning, retrieval, context and model selection when integrated. MedhaOS governs model/provider admission and controlled execution. Identity, Tenancy, Action Access, Policy, Privacy, Security and Audit retain their respective effects. SastraPDF composes the document product experience while the applicable logical service owns each document or supporting effect.
 
 The [AI feature catalogue](ai-feature-catalogue.md) documents each verified AI capability individually, including document context, expected output, product dependency, governance boundary, review expectation, status and limitations.

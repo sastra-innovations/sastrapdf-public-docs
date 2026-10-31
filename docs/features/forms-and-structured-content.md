@@ -21,4 +21,4 @@ SastraPDF supports form creation, field detection, validation, tab order, templa
 
 ## Boundaries
 
-SastraPDF owns document form design and form workflow execution. External enterprise systems remain authoritative for records created from those forms. MedhaOS governs identity, permissions and approvals when integrated.
+SastraPDF is accountable for the form product experience; Documents owns the form definition, response and document-local evidence, while the receiving service independently admits any business record created from a response. MedhaOS governs controlled execution; Identity, Action Access and Decision retain assurance, current permission and approval-disposition effects.

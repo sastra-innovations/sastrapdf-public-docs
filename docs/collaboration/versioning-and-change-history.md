@@ -13,7 +13,7 @@ Versioning and change history help reviewers understand how a document evolved d
 
 ## Governance Considerations
 
-For controlled workflows, version and change evidence should be linked to user identity, document state, approvals and export actions. MedhaOS owns broader auditability and controlled-execution boundaries when integrated.
+For controlled workflows, version and change evidence should be linked to user identity, document state, approvals and export actions. Audit owns platform proof and Decision owns approval disposition; MedhaOS governs controlled execution when integrated.
 
 ## Limitations
 

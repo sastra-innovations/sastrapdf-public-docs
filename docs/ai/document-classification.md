@@ -10,7 +10,7 @@ Document classification helps route, triage or organize documents by type, purpo
 
 ## Governance Considerations
 
-Classification output should not automatically trigger sensitive actions without policy evaluation and human review where required. When integrated, MedhaOS owns the identity, policy, tenant and approval boundaries around classification-driven workflows.
+Classification output should not automatically trigger sensitive actions without policy evaluation and human review where required. When integrated, MedhaOS governs the admitted intelligence action; Identity, Tenancy, Action Access, Policy and Decision retain identity, placement, permission, policy and approval-disposition effects.
 
 ## Limitations
 

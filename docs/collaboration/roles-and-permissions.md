@@ -1,6 +1,6 @@
 # Roles and Permissions
 
-Roles and permissions determine who can view, comment, edit, assign, approve or export documents. SastraPDF includes role-aware collaboration surfaces, while MedhaOS owns enterprise identity, RBAC, tenant isolation and policy controls when integrated.
+Roles and permissions determine who can view, comment, edit, assign, approve or export documents. SastraPDF includes role-aware collaboration surfaces. Identity owns principal and assurance, Accounts owns organisation/workspace membership, Tenancy owns placement, Action Access owns the current may-act decision, Policy owns applicable role/profile rules, and MedhaOS governs controlled execution when integrated.
 
 ## Capability Status
 
@@ -14,7 +14,7 @@ Roles and permissions determine who can view, comment, edit, assign, approve or 
 
 ## Product Boundary
 
-SastraPDF manages document collaboration behavior. MedhaOS governs identity, RBAC, tenant isolation, policies, approvals and audit evidence when integrated.
+SastraPDF composes document collaboration behaviour without replacing the named service owners. MedhaOS governs controlled execution; Decision owns approval disposition and Audit owns platform proof when those effects are required.
 
 ## Limitations
 

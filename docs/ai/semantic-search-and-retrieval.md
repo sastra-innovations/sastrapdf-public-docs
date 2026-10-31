@@ -12,7 +12,7 @@ Semantic search and retrieval help users find relevant documents or passages by 
 
 ## Permission Scope
 
-Search results should be scoped to the user's authorized documents, workspace and tenant. MedhaOS owns permission and tenant-isolation controls when integrated.
+Search results should be scoped to the user's authorized documents, workspace and tenant. Identity, Accounts, Tenancy, Action Access, Policy and Privacy supply their current boundaries; MedhaOS governs the admitted intelligence route when integrated.
 
 ## Limitations
 

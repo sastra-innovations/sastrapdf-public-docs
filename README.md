@@ -6,7 +6,7 @@ This repository provides public feature documentation for evaluators, users, arc
 
 ## Product Role
 
-SastraPDF owns document ingestion, viewing, editing, extraction, transformation, document operations, collaboration and document-workflow execution. It can work with [Medha](https://github.com/sastra-innovations/medha-public-docs) for reasoning, retrieval, context and recommendations, and with [MedhaOS](https://github.com/sastra-innovations/medha-os-public-docs) for identity, RBAC, tenant isolation, policies, approvals, auditability, observability and controlled execution.
+SastraPDF is accountable for the complete customer experience for document ingestion, viewing, editing, extraction, transformation, document operations, collaboration and document-workflow execution. The underlying document and supporting effects remain owned by the applicable Sastra logical services; the product surface does not create a second source of truth. SastraPDF can work with [Medha](https://github.com/sastra-innovations/medha-public-docs) for reasoning, retrieval, context and recommendations, and with [MedhaOS](https://github.com/sastra-innovations/medha-os-public-docs) for governed admission and controlled execution. Identity, accounts and workspace context, tenancy, action permission, policy, privacy, security, audit and licensed entitlement effects remain with their named Sastra platform services.
 
 External enterprise systems remain authoritative for their own records and business actions.
 
@@ -71,6 +71,8 @@ Every documented feature uses one of these statuses:
 - `Planned` - not currently implemented and clearly separated from available capabilities.
 
 Capabilities that could not be verified are not documented as available features in this repository.
+
+The private-alpha evidence recorded here is a product-promise and selective-reuse baseline for the next modular implementation. It is not permission to silently remove a capability during a technology or repository change, and it is not proof that the replacement runtime has already implemented or validated that capability.
 
 ## Current Status
 

@@ -28,9 +28,9 @@ The count does not include aliases, input formats, duplicate UI/API access paths
 
 ## Product Boundaries
 
-- SastraPDF owns document ingestion, viewing, editing, extraction, transformation, collaboration and document-workflow execution.
+- SastraPDF is accountable for the complete product experience for document ingestion, viewing, editing, extraction, transformation, collaboration and document-workflow execution; the applicable logical service remains the sole owner of each durable effect.
 - Medha owns reasoning, retrieval, context, model selection and intelligent recommendations.
-- MedhaOS owns identity, RBAC, tenant isolation, policies, model/provider boundaries, approvals, auditability and controlled execution.
+- MedhaOS governs admitted intelligence and controlled execution. Identity, Accounts, Tenancy, Action Access, Policy, Privacy, Security, Audit and Licensed Entitlements retain their respective effects.
 - External enterprise systems remain authoritative for records and business actions.
 
 ## Status Use

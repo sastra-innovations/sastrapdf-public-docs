@@ -1,14 +1,15 @@
 # Governance with MedhaOS
 
-MedhaOS provides governance and control boundaries for enterprise AI workflows. In SastraPDF workflows, MedhaOS can govern identity, roles, policies, approvals, model/provider boundaries, auditability and controlled execution.
+MedhaOS provides the governance and control envelope for enterprise AI workflows. In SastraPDF workflows it admits, limits, revokes, recovers and governs controlled execution. It consumes current identity, membership, tenancy, action-access, policy, privacy, security, audit and entitlement evidence from the named services rather than becoming their second owner.
 
 ## Governance Responsibilities
 
 | Responsibility | Owner |
 | --- | --- |
-| Document ingestion, editing, extraction and workflow execution | SastraPDF |
+| Document ingestion, editing, extraction and workflow execution | Documents and the other named document-effect services, composed through SastraPDF |
 | Reasoning, retrieval and recommendations | Medha |
-| Identity, RBAC, tenant isolation, policies and approvals | MedhaOS |
+| Intelligence admission, model/provider controls and controlled execution | MedhaOS |
+| Principal/session assurance, membership, placement, action permission, policy, approval disposition and audit proof | Identity, Accounts, Tenancy, Action Access, Policy, Decision and Audit respectively |
 | Records and business transactions | Connected enterprise systems |
 
 ## Conceptual Control Flow

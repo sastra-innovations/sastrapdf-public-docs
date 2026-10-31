@@ -16,4 +16,4 @@ The current evidence supports comments, review surfaces, shared spaces, role-awa
 
 ## Product Boundaries
 
-SastraPDF owns collaborative document editing and review workflow execution. MedhaOS owns identity, RBAC, tenant isolation, policies, approvals, auditability and controlled execution when integrated.
+SastraPDF is accountable for the collaborative document product experience. Documents owns document revisions, candidates, annotations and document-local review relations; Decision owns an attributable approval disposition; Communication and Notification retain their delivery and attention effects. MedhaOS governs controlled execution, while Identity, Accounts, Tenancy, Action Access, Policy, Privacy, Security and Audit retain their respective effects.

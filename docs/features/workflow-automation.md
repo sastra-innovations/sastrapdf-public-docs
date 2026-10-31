@@ -28,4 +28,4 @@ flowchart TD
 
 ## Product Boundary
 
-SastraPDF executes document workflow operations. Medha may recommend or reason about next steps. MedhaOS decides identity, policy, approval and controlled-execution boundaries. A rejected or escalated action should not proceed to execution.
+SastraPDF presents and coordinates document workflow operations. Medha may recommend or reason about next steps. MedhaOS governs controlled execution, while Identity, Action Access, Policy and Decision retain assurance, may-act, policy and approval-disposition effects. A rejected or escalated action should not proceed to execution.
